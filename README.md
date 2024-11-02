@@ -4,7 +4,7 @@
 But bear with me... i'm still trying to get the hang of github und how all this syntax & markup works... 😅 
 
 
-#### - 🔭 I’m currently working on:... too many things at once 🤪
+### - 🔭 I’m currently working on:... too many things at once 🤪
         
       - from Programming in General
        - learning CNC machining
@@ -17,7 +17,8 @@ But bear with me... i'm still trying to get the hang of github und how all this 
               - and so on, and so on, ....
    
 
-#### - 🌱 On a more professional level, I am currently studying IT in Heidelberg (Germany), especially:
+### - 🌱 On a more professional level, I am currently studying IT in Heidelberg (Germany)
+concentrating on:
                         
                   - WEB
                    - Java
@@ -25,17 +26,18 @@ But bear with me... i'm still trying to get the hang of github und how all this 
                      - how to stay afloat in a life filled with overwhelming input 🧜‍♂️
 
 
-#### - 👯 I’m looking to collaborate on any project that involves
+### - 👯 I’m looking to collaborate on any project that involves fun
+such as:
                                 
                         - structures
                          - defining goals
                           - the "how to" kind of Thinking (rather than the "what")
+                           - 🤔 IT-wise I'm looking for help understanding the world of Programming and writing code from an extremely basic level view...
 
 
-- 🤔 I’d say I'm looking for help understanding the world of Programming on an extremely basic level...
 
-### -  ❤️‍🔥 I love Knowledge... but in the *olde* sense of the word;
-- ("Knowledge" = KNOWING Things) <> ("Knowledge" = knowing ABOUT things)
+### -  ❤️‍🔥 I love Knowledge... but in the *olde* sense of the word
+("Knowledge" = KNOWING Things) <> ("Knowledge" = knowing ABOUT things)
 
                                     - starting with Conscious_interest in any *Variable*
                                      - covering Motivation,
